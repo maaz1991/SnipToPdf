@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <DefineConstants>USE_PDFSHARPCORE</DefineConstants>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="PDFsharp" Version="6.2.0" />
+  </ItemGroup>
+
+ <ItemGroup>
+  <None Update="trayicon.ico">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </None>
+ </ItemGroup>
+
+ <ItemGroup>
+   <!-- Include the Settings.settings so that Visual Studio (and future builds) know about it -->
+  <None Include="Properties\Settings.settings" />
+  <!-- Copy trayicon.ico to output -->
+  <None Update="trayicon.ico">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </None>
+  <!-- PdfSharpCore reference -->
+  <PackageReference Include="PdfSharpCore" Version="1.3.67" />
+  <PackageReference Include="Tesseract" Version="5.2.0" />
+</ItemGroup>
+
+</Project>
