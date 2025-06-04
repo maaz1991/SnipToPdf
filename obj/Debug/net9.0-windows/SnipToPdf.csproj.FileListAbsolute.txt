@@ -1,4 +1,11 @@
 C:\Users\musiddiqui\sniptopdf\SnipToPdf\bin\Debug\net9.0-windows\trayicon.ico
+C:\Users\musiddiqui\sniptopdf\SnipToPdf\bin\Debug\net9.0-windows\tessdata\chi_sim.traineddata
+C:\Users\musiddiqui\sniptopdf\SnipToPdf\bin\Debug\net9.0-windows\tessdata\chi_sim_vert.traineddata
+C:\Users\musiddiqui\sniptopdf\SnipToPdf\bin\Debug\net9.0-windows\tessdata\chi_tra.traineddata
+C:\Users\musiddiqui\sniptopdf\SnipToPdf\bin\Debug\net9.0-windows\tessdata\chi_tra_vert.traineddata
+C:\Users\musiddiqui\sniptopdf\SnipToPdf\bin\Debug\net9.0-windows\tessdata\eng.traineddata
+C:\Users\musiddiqui\sniptopdf\SnipToPdf\bin\Debug\net9.0-windows\tessdata\eus.traineddata
+C:\Users\musiddiqui\sniptopdf\SnipToPdf\bin\Debug\net9.0-windows\tessdata\urd.traineddata
 C:\Users\musiddiqui\sniptopdf\SnipToPdf\bin\Debug\net9.0-windows\x86\leptonica-1.82.0.dll
 C:\Users\musiddiqui\sniptopdf\SnipToPdf\bin\Debug\net9.0-windows\x86\tesseract50.dll
 C:\Users\musiddiqui\sniptopdf\SnipToPdf\bin\Debug\net9.0-windows\x64\leptonica-1.82.0.dll
@@ -34,6 +41,7 @@ C:\Users\musiddiqui\sniptopdf\SnipToPdf\obj\Debug\net9.0-windows\SnipToPdf.Gener
 C:\Users\musiddiqui\sniptopdf\SnipToPdf\obj\Debug\net9.0-windows\SnipToPdf.AssemblyInfoInputs.cache
 C:\Users\musiddiqui\sniptopdf\SnipToPdf\obj\Debug\net9.0-windows\SnipToPdf.AssemblyInfo.cs
 C:\Users\musiddiqui\sniptopdf\SnipToPdf\obj\Debug\net9.0-windows\SnipToPdf.csproj.CoreCompileInputs.cache
+C:\Users\musiddiqui\sniptopdf\SnipToPdf\obj\Debug\net9.0-windows\SnipToPdf.sourcelink.json
 C:\Users\musiddiqui\sniptopdf\SnipToPdf\obj\Debug\net9.0-windows\SnipToPdf.csproj.Up2Date
 C:\Users\musiddiqui\sniptopdf\SnipToPdf\obj\Debug\net9.0-windows\SnipToPdf.dll
 C:\Users\musiddiqui\sniptopdf\SnipToPdf\obj\Debug\net9.0-windows\refint\SnipToPdf.dll
